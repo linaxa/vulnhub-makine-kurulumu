@@ -1,2 +1,2 @@
 # vulnhub-makine-kurulumu
-# selam
+ selam
