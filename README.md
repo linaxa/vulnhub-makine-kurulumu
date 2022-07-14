@@ -14,5 +14,5 @@ Oncelikle Virtual Boxumuzu Kuralim; https://www.virtualbox.org/wiki/Downloads
 ### Dosyayi Cikarttiktan Sonra Kurdugumuz Virtual Boxu Acalim
 
 ### Importa Tiklayalim Ve Ardindan File Isaretine Tiklayalim.
-
+![Screenshot_2022-07-14_16_54_52](https://user-images.githubusercontent.com/100614268/179084360-14904d19-e299-4492-869d-40b9b2ec792c.png)
 
