@@ -1,2 +1,2 @@
 # vulnhub-makine-kurulumu
- selam
+Selam. Ben linax Ve Bugun Sizlere Vulnhubdan Makine Nasil Kurulur Onu Gostericem.
