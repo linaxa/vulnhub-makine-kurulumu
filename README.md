@@ -19,8 +19,7 @@ Oncelikle Virtual Boxumuzu Kuralim; https://www.virtualbox.org/wiki/Downloads
 ### Acilan Yerde Cikarttigimiz Dosyayi Secelim
 ![Screenshot_2022-07-14_16_56_27](https://user-images.githubusercontent.com/100614268/179084557-c465868d-7ed1-45a6-8aae-72d8b3a06a96.png)
 
-### Artik Hazirsiniz. Network Ayarlarini Da Yaptiktan Sonra Terminale 
+### Artik Hazirsiniz. Network Ayarlarini Da Yaptiktan Sonra Terminale Altta Belirttigim Commandi Girin.
 ### netdiscover 
-### Yazin.
 
 ## Gorunen Iplerden Bir Tanesi O Makine Olucaktir. Bol Sans :)
