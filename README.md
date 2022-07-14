@@ -8,7 +8,7 @@ Oncelikle Virtual Boxumuzu Kuralim; https://www.virtualbox.org/wiki/Downloads
 ### Mirror Secenegine Tiklayin Ve Makineyi Indirin.
 
 ### Makineyi Indirdikten Sonra Kurdugumuz Dosyalarimiza Girelim. Indirdigimiz Rar Dosyasini Oraya Cikartalim.
-
+![Screenshot_2022-07-14_16_36_40](https://user-images.githubusercontent.com/100614268/179078702-f85d8c17-1024-401d-a4e6-aad797d02032.png)
 
 ### Dosyayi Cikarttiktan Sonra Kurdugumuz Virtual Boxu Acalim
 
