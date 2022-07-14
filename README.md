@@ -18,7 +18,11 @@ Oncelikle Virtual Boxumuzu Kuralim; https://www.virtualbox.org/wiki/Downloads
 
 ### Acilan Yerde Cikarttigimiz Dosyayi Secelim
 ![Screenshot_2022-07-14_16_56_27](https://user-images.githubusercontent.com/100614268/179084557-c465868d-7ed1-45a6-8aae-72d8b3a06a96.png)
+
+### Importa Tiklayalim
+
 ![Screenshot_2022-07-14_16_58_04](https://user-images.githubusercontent.com/100614268/179088291-92fa4f2e-1873-4059-a444-ba1000e4b7d4.png)
+### Ve
 ### Artik Hazirsiniz. Network Ayarlarini Da Yaptiktan Sonra Terminale Altta Belirttigim Commandi Girin.
 ### netdiscover 
 
